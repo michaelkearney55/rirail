@@ -1,0 +1,218 @@
+[
+    {
+        "trip": "0",
+        "line": "red",
+        "begin": 1391421600,
+        "end": 1391421600,
+        "stops": [
+            { "stop": "place-alfcl", "time": 1391421600 }
+        ]
+        },
+        {
+            "trip": "0",
+            "line": "red",
+            "begin": 1391490000,
+            "end": 1391490000,
+            "stops": [
+                { "stop": "place-alfcl", "time": 1391490000 }
+            ]
+            },
+    {
+    "trip": "2190",
+    "line": "red",
+    "begin": 1391436060,
+    "end": 1391437800,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391436060 },
+      { "stop": "place-jfk", "time": 1391437320 },
+      { "stop": "place-asmnl", "time": 1391437800 }
+    ]
+  },
+  {
+    "trip": "190",
+    "line": "red",
+    "begin": 1391440080,
+    "end": 1391441760,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391440080 },
+      { "stop": "place-jfk", "time": 1391441220 },
+      { "stop": "place-asmnl", "time": 1391441760 }
+    ]
+  },
+  {
+    "trip": "2150",
+    "line": "red",
+    "begin": 1391441760,
+    "end": 1391443500,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391441760 },
+      { "stop": "place-jfk", "time": 1391443020 },
+      { "stop": "place-asmnl", "time": 1391443500 }
+    ]
+  },
+  {
+    "trip": "2152",
+    "line": "red",
+    "begin": 1391445840,
+    "end": 1391447580,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391445840 },
+      { "stop": "place-jfk", "time": 1391447100 },
+      { "stop": "place-asmnl", "time": 1391447580 }
+    ]
+  },
+  {
+    "trip": "2154",
+    "line": "red",
+    "begin": 1391449140,
+    "end": 1391450880,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391449140 },
+      { "stop": "place-jfk", "time": 1391450400 },
+      { "stop": "place-asmnl", "time": 1391450880 }
+    ]
+  },
+  {
+    "trip": "172",
+    "line": "red",
+    "begin": 1391454300,
+    "end": 1391456040,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391454300 },
+      { "stop": "place-jfk", "time": 1391455560 },
+      { "stop": "place-asmnl", "time": 1391456040 }
+    ]
+  },
+  {
+    "trip": "86",
+    "line": "red",
+    "begin": 1391456580,
+    "end": 1391458260,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391456580 },
+      { "stop": "place-jfk", "time": 1391457780 },
+      { "stop": "place-asmnl", "time": 1391458260 }
+    ]
+  },
+  {
+    "trip": "2160",
+    "line": "red",
+    "begin": 1391460480,
+    "end": 1391462220,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391460480 },
+      { "stop": "place-jfk", "time": 1391461740 },
+      { "stop": "place-asmnl", "time": 1391462220 }
+    ]
+  },
+  {
+    "trip": "174",
+    "line": "red",
+    "begin": 1391465520,
+    "end": 1391467080,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391465520 },
+      { "stop": "place-jfk", "time": 1391466600 },
+      { "stop": "place-asmnl", "time": 1391467080 }
+    ]
+  },
+  {
+    "trip": "2164",
+    "line": "red",
+    "begin": 1391466900,
+    "end": 1391468640,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391466900 },
+      { "stop": "place-jfk", "time": 1391468040 },
+      { "stop": "place-asmnl", "time": 1391468640 }
+    ]
+  },
+  {
+    "trip": "176",
+    "line": "red",
+    "begin": 1391470740,
+    "end": 1391472600,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391470740 },
+      { "stop": "place-jfk", "time": 1391472120 },
+      { "stop": "place-asmnl", "time": 1391472600 }
+    ]
+  },
+  {
+    "trip": "184",
+    "line": "red",
+    "begin": 1391477040,
+    "end": 1391478660,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391477040 },
+      { "stop": "place-jfk", "time": 1391478180 },
+      { "stop": "place-asmnl", "time": 1391478660 }
+    ]
+  },
+  {
+    "trip": "2168",
+    "line": "red",
+    "begin": 1391474460,
+    "end": 1391476200,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391474460 },
+      { "stop": "place-jfk", "time": 1391475720 },
+      { "stop": "place-asmnl", "time": 1391476200 }
+    ]
+  },
+  {
+    "trip": "94",
+    "line": "red",
+    "begin": 1391478540,
+    "end": 1391480160,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391478540 },
+      { "stop": "place-jfk", "time": 1391479680 },
+      { "stop": "place-asmnl", "time": 1391480160 }
+    ]
+  },
+  {
+    "trip": "2170",
+    "line": "red",
+    "begin": 1391478240,
+    "end": 1391479860,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391478240 },
+      { "stop": "place-jfk", "time": 1391479380 },
+      { "stop": "place-asmnl", "time": 1391479860 }
+    ]
+  },
+  {
+    "trip": "2172",
+    "line": "red",
+    "begin": 1391481900,
+    "end": 1391483520,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391481900 },
+      { "stop": "place-jfk", "time": 1391483040 },
+      { "stop": "place-asmnl", "time": 1391483520 }
+    ]
+  },
+  {
+    "trip": "178",
+    "line": "red",
+    "begin": 1391487000,
+    "end": 1391488620,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391487000 },
+      { "stop": "place-jfk", "time": 1391488140 },
+      { "stop": "place-asmnl", "time": 1391488620 }
+    ]
+  },
+  {
+    "trip": "66",
+    "line": "red",
+    "begin": 1391426280,
+    "end": 1391428920,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391426280 },
+      { "stop": "place-jfk", "time": 1391427900 },
+      { "stop": "place-asmnl", "time": 1391428920 }
+    ]
+  }
+]

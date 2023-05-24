@@ -40,110 +40,6 @@ VIZ.requiresData([
 
   // The annotations displayed along the right side of the Marey diagram
   var sideAnnotationData = [
-    // At the minimum you need time and text which positions the annotation...
-    {
-      time: '2014/02/03 05:00',
-      text: 'Service starts at 5AM on Monday morning. Each line represents the path of one train. Time continues downward, so steeper lines indicate slower trains. <br> \u25BE'
-    },
-    {
-      time: '2014/02/03 05:55',
-      text: 'Since the red line splits, we show the Ashmont branch first then the Braintree branch.  Trains on the Braintree branch "jump over" the Ashmont branch.',
-      // But additionally you can have a line connecting the annotation to a point in the marey diagram
-      connections: [{
-        time: '2014/02/03 05:40',
-        station: 'ashmont',
-        line: 'red'
-      }]
-    },
-    {
-      time: '2014/02/03 06:30',
-      text: 'Train frequency increases around 6:30AM as morning rush hour begins.',
-      id: 'marey-morning-rush'
-    },
-    {
-      time: '2014/02/03 11:30',
-      text: 'After the morning rush-hour subsides, everything runs smoothly throughout the middle of the day',
-      id: 'marey-midday-lull'
-    },
-    {
-      time: '2014/02/03 15:30',
-      text: 'The afternoon rush hour begins around 3:30PM',
-      id: 'marey-evening-rush'
-    },
-    {
-      time: '2014/02/03 17:00',
-      text: 'A disabled train causes delays on trains after (below) it for over an hour.  Notice how this causes delays in the other direction as well, as trains immediately arrive at Alewife then turn around to go south.',
-      connections: [{
-        // or a range of times on a line in the marey diagram
-        start: '2014/02/03 17:02',
-        stop: '2014/02/03 18:07',
-        station: 'JFK',
-        line: 'red'
-      }],
-      // links can also be used to highlight specific trains.  Links do not work over wrapped lines
-      link: {
-        text: 'disabled train',
-        trip: 'R983382C2'
-      }
-    },
-    {
-      time: '2014/02/03 18:20',
-      text: 'Service to Bowdoin stops at 6:20PM',
-      connections: [{
-        time: '2014/02/03 18:20',
-        station: 'Bowdoin',
-        line: 'blue'
-      }]
-    },
-    {
-      time: '2014/02/03 19:00',
-      text: 'Normal service resumes for the evening starting around 7PM',
-      id: 'marey-evening-lull'
-    },
-    {
-      time: '2014/02/03 20:50',
-      text: 'A disabled train at Wellington Station causes northbound delays on the Orange Line from 8:50PM to 9:15PM',
-      connections: [{
-        start: '2014/02/03 20:50',
-        stop: '2014/02/03 21:15',
-        station: 'Community College',
-        line: 'orange'
-      }],
-      link: {
-        text: 'disabled train',
-        trip: 'O9861AEF3'
-      }
-    },
-    {
-      time: '2014/02/03 21:20',
-      text: 'Notice how southbound trains are temporarily delayed, but get back on schedule quickly.'
-    },
-    {
-      time: '2014/02/04 01:30',
-      text: 'The last trains of the night move much slower, sweeping up the remaining passengers to finish around 1:30AM'
-    },
-    {
-      time: '2014/02/04 02:30',
-      text: 'At night, trains are moved between stations',
-      connections: [
-        {
-          start: '2014/02/04 01:56',
-          stop: '2014/02/04 02:03',
-          station: 'Orient Heights',
-          line: 'blue'
-        },
-        {
-          start: '2014/02/04 03:59',
-          stop: '2014/02/04 04:25',
-          station: 'JFK',
-          line: 'red'
-        }
-      ]
-    },
-    {
-      time: '2014/02/04 05:15',
-      text: 'At 5AM on Tuesday, the cycle begins again'
-    }
   ];
   var idToNode = {};
   network.nodes.forEach(function (data) {
@@ -269,10 +165,6 @@ VIZ.requiresData([
     dot('place-asmnl', "red");
     dot('place-alfcl', "red");
     dot('place-brntn', "red");
-    dot('place-wondl', "blue");
-    dot('place-bomnl', "blue");
-    dot('place-forhl', "orange");
-    dot('place-ogmnl', "orange");
   }
 
   // Render train dots onto the map glyph at a particular point in time
@@ -433,7 +325,7 @@ VIZ.requiresData([
     /* 4a. Render the full Marey
      *************************************************************/
     var fullMareyMargin = {top: 100, right: 200, bottom: 0, left: 60};
-    var fullMareyOuterHeight = 3500;
+    var fullMareyOuterHeight = 1350;
     var fullMareyWidth = fullMareyOuterWidth - fullMareyMargin.left - fullMareyMargin.right,
         fullMareyHeight = fullMareyOuterHeight - fullMareyMargin.top - fullMareyMargin.bottom;
     outerSvg.attr('width', fullMareyOuterWidth)

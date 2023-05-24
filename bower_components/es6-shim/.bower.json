@@ -34,7 +34,7 @@
     "tag": "0.10.1",
     "commit": "d77e5fb1ed2789e2d802792360f910582c91788e"
   },
-  "_source": "git://github.com/paulmillr/es6-shim.git",
-  "_target": "0.10.1",
+  "_source": "https://github.com/paulmillr/es6-shim.git",
+  "_target": "~0.10.1",
   "_originalSource": "es6-shim"
 }

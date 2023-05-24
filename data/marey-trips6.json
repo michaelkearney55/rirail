@@ -1,0 +1,1083 @@
+[
+  {
+    "trip": "0",
+    "line": "red",
+    "begin": 1391421600,
+    "end": 1391421600,
+    "stops": [{ "stop": "place-alfcl", "time": 1391421600 }]
+  },
+  {
+    "trip": "0",
+    "line": "red",
+    "begin": 1391490000,
+    "end": 1391490000,
+    "stops": [{ "stop": "place-alfcl", "time": 1391490000 }]
+  },
+  {
+    "trip": "2190",
+    "line": "red",
+    "begin": 1391436060,
+    "end": 1391437800,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391436060 },
+      { "stop": "place-jfk", "time": 1391437320 },
+      { "stop": "place-asmnl", "time": 1391437800 }
+    ]
+  },
+  {
+    "trip": "190",
+    "line": "red",
+    "begin": 1391440080,
+    "end": 1391441760,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391440080 },
+      { "stop": "place-jfk", "time": 1391441220 },
+      { "stop": "place-asmnl", "time": 1391441760 }
+    ]
+  },
+  {
+    "trip": "2150",
+    "line": "red",
+    "begin": 1391441760,
+    "end": 1391443500,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391441760 },
+      { "stop": "place-jfk", "time": 1391443020 },
+      { "stop": "place-asmnl", "time": 1391443500 }
+    ]
+  },
+  {
+    "trip": "2152",
+    "line": "red",
+    "begin": 1391445840,
+    "end": 1391447580,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391445840 },
+      { "stop": "place-jfk", "time": 1391447100 },
+      { "stop": "place-asmnl", "time": 1391447580 }
+    ]
+  },
+  {
+    "trip": "2154",
+    "line": "red",
+    "begin": 1391449140,
+    "end": 1391450880,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391449140 },
+      { "stop": "place-jfk", "time": 1391450400 },
+      { "stop": "place-asmnl", "time": 1391450880 }
+    ]
+  },
+  {
+    "trip": "172",
+    "line": "red",
+    "begin": 1391454300,
+    "end": 1391456040,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391454300 },
+      { "stop": "place-jfk", "time": 1391455560 },
+      { "stop": "place-asmnl", "time": 1391456040 }
+    ]
+  },
+  {
+    "trip": "86",
+    "line": "red",
+    "begin": 1391456580,
+    "end": 1391458260,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391456580 },
+      { "stop": "place-jfk", "time": 1391457780 },
+      { "stop": "place-asmnl", "time": 1391458260 }
+    ]
+  },
+  {
+    "trip": "2160",
+    "line": "red",
+    "begin": 1391460480,
+    "end": 1391462220,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391460480 },
+      { "stop": "place-jfk", "time": 1391461740 },
+      { "stop": "place-asmnl", "time": 1391462220 }
+    ]
+  },
+  {
+    "trip": "174",
+    "line": "red",
+    "begin": 1391465520,
+    "end": 1391467080,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391465520 },
+      { "stop": "place-jfk", "time": 1391466600 },
+      { "stop": "place-asmnl", "time": 1391467080 }
+    ]
+  },
+  {
+    "trip": "2164",
+    "line": "red",
+    "begin": 1391466900,
+    "end": 1391468640,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391466900 },
+      { "stop": "place-jfk", "time": 1391468040 },
+      { "stop": "place-asmnl", "time": 1391468640 }
+    ]
+  },
+  {
+    "trip": "176",
+    "line": "red",
+    "begin": 1391470740,
+    "end": 1391472600,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391470740 },
+      { "stop": "place-jfk", "time": 1391472120 },
+      { "stop": "place-asmnl", "time": 1391472600 }
+    ]
+  },
+  {
+    "trip": "184",
+    "line": "red",
+    "begin": 1391477040,
+    "end": 1391478660,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391477040 },
+      { "stop": "place-jfk", "time": 1391478180 },
+      { "stop": "place-asmnl", "time": 1391478660 }
+    ]
+  },
+  {
+    "trip": "2168",
+    "line": "red",
+    "begin": 1391474460,
+    "end": 1391476200,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391474460 },
+      { "stop": "place-jfk", "time": 1391475720 },
+      { "stop": "place-asmnl", "time": 1391476200 }
+    ]
+  },
+  {
+    "trip": "94",
+    "line": "red",
+    "begin": 1391478540,
+    "end": 1391480160,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391478540 },
+      { "stop": "place-jfk", "time": 1391479680 },
+      { "stop": "place-asmnl", "time": 1391480160 }
+    ]
+  },
+  {
+    "trip": "2170",
+    "line": "red",
+    "begin": 1391478240,
+    "end": 1391479860,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391478240 },
+      { "stop": "place-jfk", "time": 1391479380 },
+      { "stop": "place-asmnl", "time": 1391479860 }
+    ]
+  },
+  {
+    "trip": "2172",
+    "line": "red",
+    "begin": 1391481900,
+    "end": 1391483520,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391481900 },
+      { "stop": "place-jfk", "time": 1391483040 },
+      { "stop": "place-asmnl", "time": 1391483520 }
+    ]
+  },
+  {
+    "trip": "178",
+    "line": "red",
+    "begin": 1391487000,
+    "end": 1391488620,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391487000 },
+      { "stop": "place-jfk", "time": 1391488140 },
+      { "stop": "place-asmnl", "time": 1391488620 }
+    ]
+  },
+  {
+    "trip": "66",
+    "line": "red",
+    "begin": 1391426280,
+    "end": 1391428920,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391426280 },
+      { "stop": "place-jfk", "time": 1391427900 },
+      { "stop": "place-asmnl", "time": 1391428920 }
+    ]
+  },
+  {
+    "trip": "nb_0",
+    "line": "red",
+    "begin": 1391423520,
+    "end": 1391428440,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391423520 },
+      { "stop": "place-asmnl", "time": 1391427120 },
+      { "stop": "place-brntn", "time": 1391428440 }
+    ]
+  },
+  {
+    "trip": "nb_1",
+    "line": "red",
+    "begin": 1391424720,
+    "end": 1391429640,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391424720 },
+      { "stop": "place-asmnl", "time": 1391428320 },
+      { "stop": "place-brntn", "time": 1391429640 }
+    ]
+  },
+  {
+    "trip": "nb_2",
+    "line": "red",
+    "begin": 1391427120,
+    "end": 1391432040,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391427120 },
+      { "stop": "place-asmnl", "time": 1391430720 },
+      { "stop": "place-brntn", "time": 1391432040 }
+    ]
+  },
+  {
+    "trip": "nb_3",
+    "line": "red",
+    "begin": 1391428320,
+    "end": 1391433240,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391428320 },
+      { "stop": "place-asmnl", "time": 1391431920 },
+      { "stop": "place-brntn", "time": 1391433240 }
+    ]
+  },
+  {
+    "trip": "nb_4",
+    "line": "red",
+    "begin": 1391429520,
+    "end": 1391434440,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391429520 },
+      { "stop": "place-asmnl", "time": 1391433120 },
+      { "stop": "place-brntn", "time": 1391434440 }
+    ]
+  },
+  {
+    "trip": "nb_5",
+    "line": "red",
+    "begin": 1391430720,
+    "end": 1391435640,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391430720 },
+      { "stop": "place-asmnl", "time": 1391434320 },
+      { "stop": "place-brntn", "time": 1391435640 }
+    ]
+  },
+  {
+    "trip": "nb_6",
+    "line": "red",
+    "begin": 1391431920,
+    "end": 1391436840,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391431920 },
+      { "stop": "place-asmnl", "time": 1391435520 },
+      { "stop": "place-brntn", "time": 1391436840 }
+    ]
+  },
+  {
+    "trip": "nb_7",
+    "line": "red",
+    "begin": 1391433120,
+    "end": 1391438040,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391433120 },
+      { "stop": "place-asmnl", "time": 1391436720 },
+      { "stop": "place-brntn", "time": 1391438040 }
+    ]
+  },
+  {
+    "trip": "nb_8",
+    "line": "red",
+    "begin": 1391434020,
+    "end": 1391438940,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391434020 },
+      { "stop": "place-asmnl", "time": 1391437620 },
+      { "stop": "place-brntn", "time": 1391438940 }
+    ]
+  },
+  {
+    "trip": "nb_9",
+    "line": "red",
+    "begin": 1391436720,
+    "end": 1391441640,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391436720 },
+      { "stop": "place-asmnl", "time": 1391440320 },
+      { "stop": "place-brntn", "time": 1391441640 }
+    ]
+  },
+  {
+    "trip": "nb_10",
+    "line": "red",
+    "begin": 1391437920,
+    "end": 1391442840,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391437920 },
+      { "stop": "place-asmnl", "time": 1391441520 },
+      { "stop": "place-brntn", "time": 1391442840 }
+    ]
+  },
+  {
+    "trip": "nb_11",
+    "line": "red",
+    "begin": 1391441820,
+    "end": 1391446740,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391441820 },
+      { "stop": "place-asmnl", "time": 1391445420 },
+      { "stop": "place-brntn", "time": 1391446740 }
+    ]
+  },
+  {
+    "trip": "nb_12",
+    "line": "red",
+    "begin": 1391442720,
+    "end": 1391447640,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391442720 },
+      { "stop": "place-asmnl", "time": 1391446320 },
+      { "stop": "place-brntn", "time": 1391447640 }
+    ]
+  },
+  {
+    "trip": "nb_13",
+    "line": "red",
+    "begin": 1391443920,
+    "end": 1391448840,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391443920 },
+      { "stop": "place-asmnl", "time": 1391447520 },
+      { "stop": "place-brntn", "time": 1391448840 }
+    ]
+  },
+  {
+    "trip": "nb_14",
+    "line": "red",
+    "begin": 1391446320,
+    "end": 1391451240,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391446320 },
+      { "stop": "place-asmnl", "time": 1391449920 },
+      { "stop": "place-brntn", "time": 1391451240 }
+    ]
+  },
+  {
+    "trip": "nb_15",
+    "line": "red",
+    "begin": 1391449920,
+    "end": 1391454840,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391449920 },
+      { "stop": "place-asmnl", "time": 1391453520 },
+      { "stop": "place-brntn", "time": 1391454840 }
+    ]
+  },
+  {
+    "trip": "nb_16",
+    "line": "red",
+    "begin": 1391451120,
+    "end": 1391456040,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391451120 },
+      { "stop": "place-asmnl", "time": 1391454720 },
+      { "stop": "place-brntn", "time": 1391456040 }
+    ]
+  },
+  {
+    "trip": "nb_17",
+    "line": "red",
+    "begin": 1391452320,
+    "end": 1391457240,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391452320 },
+      { "stop": "place-asmnl", "time": 1391455920 },
+      { "stop": "place-brntn", "time": 1391457240 }
+    ]
+  },
+  {
+    "trip": "nb_18",
+    "line": "red",
+    "begin": 1391454600,
+    "end": 1391459520,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391454600 },
+      { "stop": "place-asmnl", "time": 1391458200 },
+      { "stop": "place-brntn", "time": 1391459520 }
+    ]
+  },
+  {
+    "trip": "nb_19",
+    "line": "red",
+    "begin": 1391457120,
+    "end": 1391462040,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391457120 },
+      { "stop": "place-asmnl", "time": 1391460720 },
+      { "stop": "place-brntn", "time": 1391462040 }
+    ]
+  },
+  {
+    "trip": "nb_20",
+    "line": "red",
+    "begin": 1391458320,
+    "end": 1391463240,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391458320 },
+      { "stop": "place-asmnl", "time": 1391461920 },
+      { "stop": "place-brntn", "time": 1391463240 }
+    ]
+  },
+  {
+    "trip": "nb_21",
+    "line": "red",
+    "begin": 1391460720,
+    "end": 1391465640,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391460720 },
+      { "stop": "place-asmnl", "time": 1391464320 },
+      { "stop": "place-brntn", "time": 1391465640 }
+    ]
+  },
+  {
+    "trip": "nb_22",
+    "line": "red",
+    "begin": 1391461920,
+    "end": 1391466840,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391461920 },
+      { "stop": "place-asmnl", "time": 1391465520 },
+      { "stop": "place-brntn", "time": 1391466840 }
+    ]
+  },
+  {
+    "trip": "nb_23",
+    "line": "red",
+    "begin": 1391463120,
+    "end": 1391468040,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391463120 },
+      { "stop": "place-asmnl", "time": 1391466720 },
+      { "stop": "place-brntn", "time": 1391468040 }
+    ]
+  },
+  {
+    "trip": "nb_24",
+    "line": "red",
+    "begin": 1391467020,
+    "end": 1391471940,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391467020 },
+      { "stop": "place-asmnl", "time": 1391470620 },
+      { "stop": "place-brntn", "time": 1391471940 }
+    ]
+  },
+  {
+    "trip": "nb_25",
+    "line": "red",
+    "begin": 1391467920,
+    "end": 1391472840,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391467920 },
+      { "stop": "place-asmnl", "time": 1391471520 },
+      { "stop": "place-brntn", "time": 1391472840 }
+    ]
+  },
+  {
+    "trip": "nb_26",
+    "line": "red",
+    "begin": 1391468940,
+    "end": 1391473860,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391468940 },
+      { "stop": "place-asmnl", "time": 1391472540 },
+      { "stop": "place-brntn", "time": 1391473860 }
+    ]
+  },
+  {
+    "trip": "nb_27",
+    "line": "red",
+    "begin": 1391471520,
+    "end": 1391476440,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391471520 },
+      { "stop": "place-asmnl", "time": 1391475120 },
+      { "stop": "place-brntn", "time": 1391476440 }
+    ]
+  },
+  {
+    "trip": "nb_28",
+    "line": "red",
+    "begin": 1391472540,
+    "end": 1391477460,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391472540 },
+      { "stop": "place-asmnl", "time": 1391476140 },
+      { "stop": "place-brntn", "time": 1391477460 }
+    ]
+  },
+  {
+    "trip": "nb_29",
+    "line": "red",
+    "begin": 1391474640,
+    "end": 1391479560,
+    "stops": [
+      { "stop": "place-alfcl", "time": 1391474640 },
+      { "stop": "place-asmnl", "time": 1391478240 },
+      { "stop": "place-brntn", "time": 1391479560 }
+    ]
+  },
+  {
+    "trip": "2151",
+    "line": "red",
+    "begin": 1391423520,
+    "end": 1391425260,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391423520 },
+      { "stop": "place-jfk", "time": 1391424000 },
+      { "stop": "place-alfcl", "time": 1391425260 }
+    ]
+  },
+  {
+    "trip": "2153",
+    "line": "red",
+    "begin": 1391427000,
+    "end": 1391428740,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391427000 },
+      { "stop": "place-jfk", "time": 1391427480 },
+      { "stop": "place-alfcl", "time": 1391428740 }
+    ]
+  },
+  {
+    "trip": "95",
+    "line": "red",
+    "begin": 1391427720,
+    "end": 1391429460,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391427720 },
+      { "stop": "place-jfk", "time": 1391428200 },
+      { "stop": "place-alfcl", "time": 1391429460 }
+    ]
+  },
+  {
+    "trip": "2155",
+    "line": "red",
+    "begin": 1391431320,
+    "end": 1391433060,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391431320 },
+      { "stop": "place-jfk", "time": 1391431800 },
+      { "stop": "place-alfcl", "time": 1391433060 }
+    ]
+  },
+  {
+    "trip": "171",
+    "line": "red",
+    "begin": 1391435220,
+    "end": 1391436900,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391435220 },
+      { "stop": "place-jfk", "time": 1391435700 },
+      { "stop": "place-alfcl", "time": 1391436900 }
+    ]
+  },
+  {
+    "trip": "2159",
+    "line": "red",
+    "begin": 1391438280,
+    "end": 1391440020,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391438280 },
+      { "stop": "place-jfk", "time": 1391438760 },
+      { "stop": "place-alfcl", "time": 1391440020 }
+    ]
+  },
+  {
+    "trip": "93",
+    "line": "red",
+    "begin": 1391439180,
+    "end": 1391440920,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391439180 },
+      { "stop": "place-jfk", "time": 1391439660 },
+      { "stop": "place-alfcl", "time": 1391440920 }
+    ]
+  },
+  {
+    "trip": "85",
+    "line": "red",
+    "begin": 1391443020,
+    "end": 1391444520,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391443020 },
+      { "stop": "place-jfk", "time": 1391443260 },
+      { "stop": "place-alfcl", "time": 1391444520 }
+    ]
+  },
+  {
+    "trip": "2163",
+    "line": "red",
+    "begin": 1391445300,
+    "end": 1391447040,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391445300 },
+      { "stop": "place-jfk", "time": 1391445780 },
+      { "stop": "place-alfcl", "time": 1391447040 }
+    ]
+  },
+  {
+    "trip": "173",
+    "line": "red",
+    "begin": 1391445780,
+    "end": 1391447460,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391445780 },
+      { "stop": "place-jfk", "time": 1391446260 },
+      { "stop": "place-alfcl", "time": 1391447460 }
+    ]
+  },
+  {
+    "trip": "2165",
+    "line": "red",
+    "begin": 1391449080,
+    "end": 1391450820,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391449080 },
+      { "stop": "place-jfk", "time": 1391449560 },
+      { "stop": "place-alfcl", "time": 1391450820 }
+    ]
+  },
+  {
+    "trip": "2167",
+    "line": "red",
+    "begin": 1391452380,
+    "end": 1391454120,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391452380 },
+      { "stop": "place-jfk", "time": 1391452860 },
+      { "stop": "place-alfcl", "time": 1391454120 }
+    ]
+  },
+  {
+    "trip": "137",
+    "line": "red",
+    "begin": 1391455680,
+    "end": 1391457480,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391455680 },
+      { "stop": "place-jfk", "time": 1391456160 },
+      { "stop": "place-alfcl", "time": 1391457480 }
+    ]
+  },
+  {
+    "trip": "2169",
+    "line": "red",
+    "begin": 1391455740,
+    "end": 1391457540,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391455740 },
+      { "stop": "place-jfk", "time": 1391456220 },
+      { "stop": "place-alfcl", "time": 1391457540 }
+    ]
+  },
+  {
+    "trip": "175",
+    "line": "red",
+    "begin": 1391460780,
+    "end": 1391462520,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391460780 },
+      { "stop": "place-jfk", "time": 1391461260 },
+      { "stop": "place-alfcl", "time": 1391462520 }
+    ]
+  },
+  {
+    "trip": "2173",
+    "line": "red",
+    "begin": 1391463720,
+    "end": 1391465460,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391463720 },
+      { "stop": "place-jfk", "time": 1391464200 },
+      { "stop": "place-alfcl", "time": 1391465460 }
+    ]
+  },
+  {
+    "trip": "179",
+    "line": "red",
+    "begin": 1391473020,
+    "end": 1391474700,
+    "stops": [
+      { "stop": "place-asmnl", "time": 1391473020 },
+      { "stop": "place-jfk", "time": 1391473500 },
+      { "stop": "place-alfcl", "time": 1391474700 }
+    ]
+  },
+  {
+    "trip": "sb_0",
+    "line": "red",
+    "begin": 1391422320,
+    "end": 1391427240,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391422320 },
+      { "stop": "place-asmnl", "time": 1391423640 },
+      { "stop": "place-alfcl", "time": 1391427240 }
+    ]
+  },
+  {
+    "trip": "sb_1",
+    "line": "red",
+    "begin": 1391423520,
+    "end": 1391428440,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391423520 },
+      { "stop": "place-asmnl", "time": 1391424840 },
+      { "stop": "place-alfcl", "time": 1391428440 }
+    ]
+  },
+  {
+    "trip": "sb_2",
+    "line": "red",
+    "begin": 1391426820,
+    "end": 1391431740,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391426820 },
+      { "stop": "place-asmnl", "time": 1391428140 },
+      { "stop": "place-alfcl", "time": 1391431740 }
+    ]
+  },
+  {
+    "trip": "sb_3",
+    "line": "red",
+    "begin": 1391428020,
+    "end": 1391432940,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391428020 },
+      { "stop": "place-asmnl", "time": 1391429340 },
+      { "stop": "place-alfcl", "time": 1391432940 }
+    ]
+  },
+  {
+    "trip": "sb_4",
+    "line": "red",
+    "begin": 1391430020,
+    "end": 1391434940,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391430020 },
+      { "stop": "place-asmnl", "time": 1391431340 },
+      { "stop": "place-alfcl", "time": 1391434940 }
+    ]
+  },
+  {
+    "trip": "sb_5",
+    "line": "red",
+    "begin": 1391431320,
+    "end": 1391436240,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391431320 },
+      { "stop": "place-asmnl", "time": 1391432640 },
+      { "stop": "place-alfcl", "time": 1391436240 }
+    ]
+  },
+  {
+    "trip": "sb_6",
+    "line": "red",
+    "begin": 1391434020,
+    "end": 1391438940,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391434020 },
+      { "stop": "place-asmnl", "time": 1391435340 },
+      { "stop": "place-alfcl", "time": 1391438940 }
+    ]
+  },
+  {
+    "trip": "sb_7",
+    "line": "red",
+    "begin": 1391435040,
+    "end": 1391439960,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391435040 },
+      { "stop": "place-asmnl", "time": 1391436360 },
+      { "stop": "place-alfcl", "time": 1391439960 }
+    ]
+  },
+  {
+    "trip": "sb_8",
+    "line": "red",
+    "begin": 1391438040,
+    "end": 1391442960,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391438040 },
+      { "stop": "place-asmnl", "time": 1391439360 },
+      { "stop": "place-alfcl", "time": 1391442960 }
+    ]
+  },
+  {
+    "trip": "sb_9",
+    "line": "red",
+    "begin": 1391439240,
+    "end": 1391444160,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391439240 },
+      { "stop": "place-asmnl", "time": 1391440560 },
+      { "stop": "place-alfcl", "time": 1391444160 }
+    ]
+  },
+  {
+    "trip": "sb_10",
+    "line": "red",
+    "begin": 1391441820,
+    "end": 1391446740,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391441820 },
+      { "stop": "place-asmnl", "time": 1391443140 },
+      { "stop": "place-alfcl", "time": 1391446740 }
+    ]
+  },
+  {
+    "trip": "sb_11",
+    "line": "red",
+    "begin": 1391444520,
+    "end": 1391449440,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391444520 },
+      { "stop": "place-asmnl", "time": 1391445840 },
+      { "stop": "place-alfcl", "time": 1391449440 }
+    ]
+  },
+  {
+    "trip": "sb_12",
+    "line": "red",
+    "begin": 1391445720,
+    "end": 1391450640,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391445720 },
+      { "stop": "place-asmnl", "time": 1391447040 },
+      { "stop": "place-alfcl", "time": 1391450640 }
+    ]
+  },
+  {
+    "trip": "sb_13",
+    "line": "red",
+    "begin": 1391448120,
+    "end": 1391453040,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391448120 },
+      { "stop": "place-asmnl", "time": 1391449440 },
+      { "stop": "place-alfcl", "time": 1391453040 }
+    ]
+  },
+  {
+    "trip": "sb_14",
+    "line": "red",
+    "begin": 1391449020,
+    "end": 1391453940,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391449020 },
+      { "stop": "place-asmnl", "time": 1391450340 },
+      { "stop": "place-alfcl", "time": 1391453940 }
+    ]
+  },
+  {
+    "trip": "sb_15",
+    "line": "red",
+    "begin": 1391451420,
+    "end": 1391456340,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391451420 },
+      { "stop": "place-asmnl", "time": 1391452740 },
+      { "stop": "place-alfcl", "time": 1391456340 }
+    ]
+  },
+  {
+    "trip": "sb_16",
+    "line": "red",
+    "begin": 1391452320,
+    "end": 1391457240,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391452320 },
+      { "stop": "place-asmnl", "time": 1391453640 },
+      { "stop": "place-alfcl", "time": 1391457240 }
+    ]
+  },
+  {
+    "trip": "sb_17",
+    "line": "red",
+    "begin": 1391454720,
+    "end": 1391459640,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391454720 },
+      { "stop": "place-asmnl", "time": 1391456040 },
+      { "stop": "place-alfcl", "time": 1391459640 }
+    ]
+  },
+  {
+    "trip": "sb_18",
+    "line": "red",
+    "begin": 1391455920,
+    "end": 1391460840,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391455920 },
+      { "stop": "place-asmnl", "time": 1391457240 },
+      { "stop": "place-alfcl", "time": 1391460840 }
+    ]
+  },
+  {
+    "trip": "sb_19",
+    "line": "red",
+    "begin": 1391457120,
+    "end": 1391462040,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391457120 },
+      { "stop": "place-asmnl", "time": 1391458440 },
+      { "stop": "place-alfcl", "time": 1391462040 }
+    ]
+  },
+  {
+    "trip": "sb_20",
+    "line": "red",
+    "begin": 1391459520,
+    "end": 1391464440,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391459520 },
+      { "stop": "place-asmnl", "time": 1391460840 },
+      { "stop": "place-alfcl", "time": 1391464440 }
+    ]
+  },
+  {
+    "trip": "sb_21",
+    "line": "red",
+    "begin": 1391460520,
+    "end": 1391465440,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391460520 },
+      { "stop": "place-asmnl", "time": 1391461840 },
+      { "stop": "place-alfcl", "time": 1391465440 }
+    ]
+  },
+  {
+    "trip": "sb_22",
+    "line": "red",
+    "begin": 1391462520,
+    "end": 1391467440,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391462520 },
+      { "stop": "place-asmnl", "time": 1391463840 },
+      { "stop": "place-alfcl", "time": 1391467440 }
+    ]
+  },
+  {
+    "trip": "sb_23",
+    "line": "red",
+    "begin": 1391463420,
+    "end": 1391468340,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391463420 },
+      { "stop": "place-asmnl", "time": 1391464740 },
+      { "stop": "place-alfcl", "time": 1391468340 }
+    ]
+  },
+  {
+    "trip": "sb_24",
+    "line": "red",
+    "begin": 1391464320,
+    "end": 1391469240,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391464320 },
+      { "stop": "place-asmnl", "time": 1391465640 },
+      { "stop": "place-alfcl", "time": 1391469240 }
+    ]
+  },
+  {
+    "trip": "sb_25",
+    "line": "red",
+    "begin": 1391465520,
+    "end": 1391470440,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391465520 },
+      { "stop": "place-asmnl", "time": 1391466840 },
+      { "stop": "place-alfcl", "time": 1391470440 }
+    ]
+  },
+  {
+    "trip": "sb_26",
+    "line": "red",
+    "begin": 1391466720,
+    "end": 1391471640,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391466720 },
+      { "stop": "place-asmnl", "time": 1391468040 },
+      { "stop": "place-alfcl", "time": 1391471640 }
+    ]
+  },
+  {
+    "trip": "sb_27",
+    "line": "red",
+    "begin": 1391467920,
+    "end": 1391472840,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391467920 },
+      { "stop": "place-asmnl", "time": 1391469240 },
+      { "stop": "place-alfcl", "time": 1391472840 }
+    ]
+  },
+  {
+    "trip": "sb_28",
+    "line": "red",
+    "begin": 1391469120,
+    "end": 1391474040,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391469120 },
+      { "stop": "place-asmnl", "time": 1391470440 },
+      { "stop": "place-alfcl", "time": 1391474040 }
+    ]
+  },
+  {
+    "trip": "sb_29",
+    "line": "red",
+    "begin": 1391471820,
+    "end": 1391476740,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391471820 },
+      { "stop": "place-asmnl", "time": 1391473140 },
+      { "stop": "place-alfcl", "time": 1391476740 }
+    ]
+  },
+  {
+    "trip": "sb_30",
+    "line": "red",
+    "begin": 1391473020,
+    "end": 1391477940,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391473020 },
+      { "stop": "place-asmnl", "time": 1391474340 },
+      { "stop": "place-alfcl", "time": 1391477940 }
+    ]
+  },
+  {
+    "trip": "sb_31",
+    "line": "red",
+    "begin": 1391473920,
+    "end": 1391478840,
+    "stops": [
+      { "stop": "place-brntn", "time": 1391473920 },
+      { "stop": "place-asmnl", "time": 1391475240 },
+      { "stop": "place-alfcl", "time": 1391478840 }
+    ]
+  }
+]
